@@ -8,7 +8,7 @@
 #import <Foundation/Foundation.h>
 #import "ADXConsentViewController.h"
 
-#define ADX_SDK_VERSION @"1.0.0"
+#define ADX_CORE_SDK_VERSION @"1.0.0"
 
 typedef NS_ENUM(NSInteger, ADXConsentState) {
     ADXConsentStateUnknown      = 0,
