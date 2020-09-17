@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"Chiung Choi"=>"god@adxcorp.kr"}
   s.homepage = "https://github.com/adxcorp/ADXLibrary_Core_iOS_Release"
-  s.description = "ADX Library for iOS"
+  s.description = "ADX Library allows developers to easily incorporate banner, interstitial, native ads and rewarded video. It will benefit developers a lot."
   s.source = { :git => 'https://github.com/adxcorp/ADXLibrary_Core_iOS_Release.git', :tag => s.version.to_s }
   s.ios.deployment_target    = '10.0'
 
