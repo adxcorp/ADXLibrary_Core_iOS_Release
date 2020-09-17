@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary = "ADX Library Core for iOS"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"Chiung Choi"=>"god@adxcorp.kr"}
-  s.homepage = "https://github.com/adxcorp/ADXLibrary_Core_iOS"
+  s.homepage = "https://github.com/adxcorp/ADXLibrary_Core_iOS_Release"
   s.description = "ADX Library for iOS"
   s.source = { :git => 'https://github.com/adxcorp/ADXLibrary_Core_iOS_Release.git', :tag => s.version.to_s }
   s.ios.deployment_target    = '10.0'
