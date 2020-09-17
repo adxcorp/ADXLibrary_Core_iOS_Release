@@ -8,7 +8,7 @@
 #import <Foundation/Foundation.h>
 #import "ADXConsentViewController.h"
 
-#define ADX_CORE_SDK_VERSION @"1.0.1"
+#define ADX_CORE_SDK_VERSION @"1.0.2"
 
 typedef NS_ENUM(NSInteger, ADXConsentState) {
     ADXConsentStateUnknown      = 0,
@@ -36,7 +36,7 @@ typedef void(^ADXUserConfirmedBlock)(BOOL);
 @interface ADXGdprBase : NSObject
 
 @property (nonatomic, assign) ADXDebugState debugState;
-@property(nonatomic) BOOL logEnable;
+@property (nonatomic) BOOL logEnable;
 
 /**
  get instance
