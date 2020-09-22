@@ -1,0 +1,16 @@
+PODS:
+  - ADXLibrary-Core (0.1.0)
+
+DEPENDENCIES:
+  - ADXLibrary-Core (from `../`)
+
+EXTERNAL SOURCES:
+  ADXLibrary-Core:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ADXLibrary-Core: 47cfd311de119855f613588a97ca2588daa4a889
+
+PODFILE CHECKSUM: 6dfeaa3ad35ebea2581fed6ecef74c8842081121
+
+COCOAPODS: 1.10.0.beta.2

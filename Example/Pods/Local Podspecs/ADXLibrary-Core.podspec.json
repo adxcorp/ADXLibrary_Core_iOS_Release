@@ -1,0 +1,22 @@
+{
+  "name": "ADXLibrary-Core",
+  "version": "0.1.0",
+  "summary": "A short description of ADXLibrary-Core.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gomfactory/ADXLibrary-Core",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gomfactory": "sunny@gomfactory.com"
+  },
+  "source": {
+    "git": "https://github.com/gomfactory/ADXLibrary-Core.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ADXLibrary-Core/Classes/**/*"
+}
