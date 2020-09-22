@@ -1,6 +1,0 @@
-framework module Pods_ADXLibrary_Core_Tests {
-  umbrella header "Pods-ADXLibrary-Core_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
